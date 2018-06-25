@@ -18,7 +18,7 @@ The `ryobi_gdo` cover platform lets you control [Ryobi](https://www.ryobitools.c
 
 ## {% linkable_title Setup %}
 
-In order to be able to use your Ryobi garage door opener, you will have to get the DEVICE_ID_OF_YOUR_COVER (one for each garage door).
+In order to be able to use your Ryobi garage door opener, you will have to get the DEVICE_ID_OF_YOUR_COVER (also known as the MAC Address) (one for each garage door).
 
 The DEVICE_ID_OF_YOUR_COVER can be retrieved using `curl`, simply use your username and password using the following example. Your `DEVICE_ID_OF_YOUR_COVER` will be `varName`:
 
